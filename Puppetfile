@@ -4,7 +4,7 @@ mod 'puppetlabs/apache'
 mod 'puppetlabs/mysql'
 mod 'puppetlabs/stdlib'
 
-moudledir 'profiles'
+moduledir 'profiles'
 mod 'profiles',
 :git => 'https://github.com/dvadgama/puppet_profiles.git'
 
