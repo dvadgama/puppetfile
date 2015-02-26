@@ -15,4 +15,4 @@ mod 'roles',
 :git => 'https://github.com/dvadgama/puppet_roles.git'
 
 mod 'custom',
- :git => 'https://github.com/dvadgama/custom_module.git
+ :git => 'https://github.com/dvadgama/custom_module.git'
