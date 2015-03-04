@@ -6,7 +6,7 @@ mod 'puppetlabs/stdlib'
 
 mod 'cloud_services',
 :git  => 'https://github.com/dvadgama/cloud_services.git',
-:tag  => 'v2.0'
+:tag  => 'v2.2'
 
 mod 'profiles',
 :git => 'https://github.com/dvadgama/puppet_profiles.git'
